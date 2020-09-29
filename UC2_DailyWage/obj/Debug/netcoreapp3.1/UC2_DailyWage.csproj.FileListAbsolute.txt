@@ -1,0 +1,13 @@
+C:\Users\Sai\source\repos\Employee Wage\UC2_DailyWage\bin\Debug\netcoreapp3.1\UC2_DailyWage.exe
+C:\Users\Sai\source\repos\Employee Wage\UC2_DailyWage\bin\Debug\netcoreapp3.1\UC2_DailyWage.deps.json
+C:\Users\Sai\source\repos\Employee Wage\UC2_DailyWage\bin\Debug\netcoreapp3.1\UC2_DailyWage.runtimeconfig.json
+C:\Users\Sai\source\repos\Employee Wage\UC2_DailyWage\bin\Debug\netcoreapp3.1\UC2_DailyWage.runtimeconfig.dev.json
+C:\Users\Sai\source\repos\Employee Wage\UC2_DailyWage\bin\Debug\netcoreapp3.1\UC2_DailyWage.dll
+C:\Users\Sai\source\repos\Employee Wage\UC2_DailyWage\bin\Debug\netcoreapp3.1\UC2_DailyWage.pdb
+C:\Users\Sai\source\repos\Employee Wage\UC2_DailyWage\obj\Debug\netcoreapp3.1\UC2_DailyWage.csprojAssemblyReference.cache
+C:\Users\Sai\source\repos\Employee Wage\UC2_DailyWage\obj\Debug\netcoreapp3.1\UC2_DailyWage.AssemblyInfoInputs.cache
+C:\Users\Sai\source\repos\Employee Wage\UC2_DailyWage\obj\Debug\netcoreapp3.1\UC2_DailyWage.AssemblyInfo.cs
+C:\Users\Sai\source\repos\Employee Wage\UC2_DailyWage\obj\Debug\netcoreapp3.1\UC2_DailyWage.csproj.CoreCompileInputs.cache
+C:\Users\Sai\source\repos\Employee Wage\UC2_DailyWage\obj\Debug\netcoreapp3.1\UC2_DailyWage.dll
+C:\Users\Sai\source\repos\Employee Wage\UC2_DailyWage\obj\Debug\netcoreapp3.1\UC2_DailyWage.pdb
+C:\Users\Sai\source\repos\Employee Wage\UC2_DailyWage\obj\Debug\netcoreapp3.1\UC2_DailyWage.genruntimeconfig.cache
