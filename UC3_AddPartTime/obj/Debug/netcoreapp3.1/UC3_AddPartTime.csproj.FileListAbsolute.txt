@@ -1,0 +1,13 @@
+C:\Users\Sai\source\repos\Employee Wage\UC3_AddPartTime\bin\Debug\netcoreapp3.1\UC3_AddPartTime.exe
+C:\Users\Sai\source\repos\Employee Wage\UC3_AddPartTime\bin\Debug\netcoreapp3.1\UC3_AddPartTime.deps.json
+C:\Users\Sai\source\repos\Employee Wage\UC3_AddPartTime\bin\Debug\netcoreapp3.1\UC3_AddPartTime.runtimeconfig.json
+C:\Users\Sai\source\repos\Employee Wage\UC3_AddPartTime\bin\Debug\netcoreapp3.1\UC3_AddPartTime.runtimeconfig.dev.json
+C:\Users\Sai\source\repos\Employee Wage\UC3_AddPartTime\bin\Debug\netcoreapp3.1\UC3_AddPartTime.dll
+C:\Users\Sai\source\repos\Employee Wage\UC3_AddPartTime\bin\Debug\netcoreapp3.1\UC3_AddPartTime.pdb
+C:\Users\Sai\source\repos\Employee Wage\UC3_AddPartTime\obj\Debug\netcoreapp3.1\UC3_AddPartTime.csprojAssemblyReference.cache
+C:\Users\Sai\source\repos\Employee Wage\UC3_AddPartTime\obj\Debug\netcoreapp3.1\UC3_AddPartTime.AssemblyInfoInputs.cache
+C:\Users\Sai\source\repos\Employee Wage\UC3_AddPartTime\obj\Debug\netcoreapp3.1\UC3_AddPartTime.AssemblyInfo.cs
+C:\Users\Sai\source\repos\Employee Wage\UC3_AddPartTime\obj\Debug\netcoreapp3.1\UC3_AddPartTime.csproj.CoreCompileInputs.cache
+C:\Users\Sai\source\repos\Employee Wage\UC3_AddPartTime\obj\Debug\netcoreapp3.1\UC3_AddPartTime.dll
+C:\Users\Sai\source\repos\Employee Wage\UC3_AddPartTime\obj\Debug\netcoreapp3.1\UC3_AddPartTime.pdb
+C:\Users\Sai\source\repos\Employee Wage\UC3_AddPartTime\obj\Debug\netcoreapp3.1\UC3_AddPartTime.genruntimeconfig.cache
