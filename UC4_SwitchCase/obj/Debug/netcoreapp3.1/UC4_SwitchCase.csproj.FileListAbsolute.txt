@@ -1,0 +1,13 @@
+C:\Users\Sai\source\repos\Employee Wage\UC4_SwitchCase\bin\Debug\netcoreapp3.1\UC4_SwitchCase.exe
+C:\Users\Sai\source\repos\Employee Wage\UC4_SwitchCase\bin\Debug\netcoreapp3.1\UC4_SwitchCase.deps.json
+C:\Users\Sai\source\repos\Employee Wage\UC4_SwitchCase\bin\Debug\netcoreapp3.1\UC4_SwitchCase.runtimeconfig.json
+C:\Users\Sai\source\repos\Employee Wage\UC4_SwitchCase\bin\Debug\netcoreapp3.1\UC4_SwitchCase.runtimeconfig.dev.json
+C:\Users\Sai\source\repos\Employee Wage\UC4_SwitchCase\bin\Debug\netcoreapp3.1\UC4_SwitchCase.dll
+C:\Users\Sai\source\repos\Employee Wage\UC4_SwitchCase\bin\Debug\netcoreapp3.1\UC4_SwitchCase.pdb
+C:\Users\Sai\source\repos\Employee Wage\UC4_SwitchCase\obj\Debug\netcoreapp3.1\UC4_SwitchCase.csprojAssemblyReference.cache
+C:\Users\Sai\source\repos\Employee Wage\UC4_SwitchCase\obj\Debug\netcoreapp3.1\UC4_SwitchCase.AssemblyInfoInputs.cache
+C:\Users\Sai\source\repos\Employee Wage\UC4_SwitchCase\obj\Debug\netcoreapp3.1\UC4_SwitchCase.AssemblyInfo.cs
+C:\Users\Sai\source\repos\Employee Wage\UC4_SwitchCase\obj\Debug\netcoreapp3.1\UC4_SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Sai\source\repos\Employee Wage\UC4_SwitchCase\obj\Debug\netcoreapp3.1\UC4_SwitchCase.dll
+C:\Users\Sai\source\repos\Employee Wage\UC4_SwitchCase\obj\Debug\netcoreapp3.1\UC4_SwitchCase.pdb
+C:\Users\Sai\source\repos\Employee Wage\UC4_SwitchCase\obj\Debug\netcoreapp3.1\UC4_SwitchCase.genruntimeconfig.cache
