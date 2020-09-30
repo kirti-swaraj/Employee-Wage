@@ -1,0 +1,12 @@
+C:\Users\Sai\source\repos\Employee Wage\UC6_MaxmWage\bin\Debug\netcoreapp3.1\UC6_MaxmWage.exe
+C:\Users\Sai\source\repos\Employee Wage\UC6_MaxmWage\bin\Debug\netcoreapp3.1\UC6_MaxmWage.deps.json
+C:\Users\Sai\source\repos\Employee Wage\UC6_MaxmWage\bin\Debug\netcoreapp3.1\UC6_MaxmWage.runtimeconfig.json
+C:\Users\Sai\source\repos\Employee Wage\UC6_MaxmWage\bin\Debug\netcoreapp3.1\UC6_MaxmWage.runtimeconfig.dev.json
+C:\Users\Sai\source\repos\Employee Wage\UC6_MaxmWage\bin\Debug\netcoreapp3.1\UC6_MaxmWage.dll
+C:\Users\Sai\source\repos\Employee Wage\UC6_MaxmWage\bin\Debug\netcoreapp3.1\UC6_MaxmWage.pdb
+C:\Users\Sai\source\repos\Employee Wage\UC6_MaxmWage\obj\Debug\netcoreapp3.1\UC6_MaxmWage.AssemblyInfoInputs.cache
+C:\Users\Sai\source\repos\Employee Wage\UC6_MaxmWage\obj\Debug\netcoreapp3.1\UC6_MaxmWage.AssemblyInfo.cs
+C:\Users\Sai\source\repos\Employee Wage\UC6_MaxmWage\obj\Debug\netcoreapp3.1\UC6_MaxmWage.csproj.CoreCompileInputs.cache
+C:\Users\Sai\source\repos\Employee Wage\UC6_MaxmWage\obj\Debug\netcoreapp3.1\UC6_MaxmWage.dll
+C:\Users\Sai\source\repos\Employee Wage\UC6_MaxmWage\obj\Debug\netcoreapp3.1\UC6_MaxmWage.pdb
+C:\Users\Sai\source\repos\Employee Wage\UC6_MaxmWage\obj\Debug\netcoreapp3.1\UC6_MaxmWage.genruntimeconfig.cache
