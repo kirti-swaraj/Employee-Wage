@@ -1,0 +1,13 @@
+C:\Users\Sai\source\repos\Employee Wage\UC7_UsingClass\bin\Debug\netcoreapp3.1\UC7_UsingClass.exe
+C:\Users\Sai\source\repos\Employee Wage\UC7_UsingClass\bin\Debug\netcoreapp3.1\UC7_UsingClass.deps.json
+C:\Users\Sai\source\repos\Employee Wage\UC7_UsingClass\bin\Debug\netcoreapp3.1\UC7_UsingClass.runtimeconfig.json
+C:\Users\Sai\source\repos\Employee Wage\UC7_UsingClass\bin\Debug\netcoreapp3.1\UC7_UsingClass.runtimeconfig.dev.json
+C:\Users\Sai\source\repos\Employee Wage\UC7_UsingClass\bin\Debug\netcoreapp3.1\UC7_UsingClass.dll
+C:\Users\Sai\source\repos\Employee Wage\UC7_UsingClass\bin\Debug\netcoreapp3.1\UC7_UsingClass.pdb
+C:\Users\Sai\source\repos\Employee Wage\UC7_UsingClass\obj\Debug\netcoreapp3.1\UC7_UsingClass.csprojAssemblyReference.cache
+C:\Users\Sai\source\repos\Employee Wage\UC7_UsingClass\obj\Debug\netcoreapp3.1\UC7_UsingClass.AssemblyInfoInputs.cache
+C:\Users\Sai\source\repos\Employee Wage\UC7_UsingClass\obj\Debug\netcoreapp3.1\UC7_UsingClass.AssemblyInfo.cs
+C:\Users\Sai\source\repos\Employee Wage\UC7_UsingClass\obj\Debug\netcoreapp3.1\UC7_UsingClass.csproj.CoreCompileInputs.cache
+C:\Users\Sai\source\repos\Employee Wage\UC7_UsingClass\obj\Debug\netcoreapp3.1\UC7_UsingClass.dll
+C:\Users\Sai\source\repos\Employee Wage\UC7_UsingClass\obj\Debug\netcoreapp3.1\UC7_UsingClass.pdb
+C:\Users\Sai\source\repos\Employee Wage\UC7_UsingClass\obj\Debug\netcoreapp3.1\UC7_UsingClass.genruntimeconfig.cache
