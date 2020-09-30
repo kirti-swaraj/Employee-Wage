@@ -1,0 +1,12 @@
+C:\Users\Sai\source\repos\Employee Wage\UC5_MonthlyWage\bin\Debug\netcoreapp3.1\UC5_MonthlyWage.exe
+C:\Users\Sai\source\repos\Employee Wage\UC5_MonthlyWage\bin\Debug\netcoreapp3.1\UC5_MonthlyWage.deps.json
+C:\Users\Sai\source\repos\Employee Wage\UC5_MonthlyWage\bin\Debug\netcoreapp3.1\UC5_MonthlyWage.runtimeconfig.json
+C:\Users\Sai\source\repos\Employee Wage\UC5_MonthlyWage\bin\Debug\netcoreapp3.1\UC5_MonthlyWage.runtimeconfig.dev.json
+C:\Users\Sai\source\repos\Employee Wage\UC5_MonthlyWage\bin\Debug\netcoreapp3.1\UC5_MonthlyWage.dll
+C:\Users\Sai\source\repos\Employee Wage\UC5_MonthlyWage\bin\Debug\netcoreapp3.1\UC5_MonthlyWage.pdb
+C:\Users\Sai\source\repos\Employee Wage\UC5_MonthlyWage\obj\Debug\netcoreapp3.1\UC5_MonthlyWage.AssemblyInfoInputs.cache
+C:\Users\Sai\source\repos\Employee Wage\UC5_MonthlyWage\obj\Debug\netcoreapp3.1\UC5_MonthlyWage.AssemblyInfo.cs
+C:\Users\Sai\source\repos\Employee Wage\UC5_MonthlyWage\obj\Debug\netcoreapp3.1\UC5_MonthlyWage.csproj.CoreCompileInputs.cache
+C:\Users\Sai\source\repos\Employee Wage\UC5_MonthlyWage\obj\Debug\netcoreapp3.1\UC5_MonthlyWage.dll
+C:\Users\Sai\source\repos\Employee Wage\UC5_MonthlyWage\obj\Debug\netcoreapp3.1\UC5_MonthlyWage.pdb
+C:\Users\Sai\source\repos\Employee Wage\UC5_MonthlyWage\obj\Debug\netcoreapp3.1\UC5_MonthlyWage.genruntimeconfig.cache
