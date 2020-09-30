@@ -1,0 +1,4 @@
+C:\Users\Sai\source\repos\Employee Wage\UC9_SaveTotalWage\obj\Debug\netcoreapp3.1\UC9_SaveTotalWage.csprojAssemblyReference.cache
+C:\Users\Sai\source\repos\Employee Wage\UC9_SaveTotalWage\obj\Debug\netcoreapp3.1\UC9_SaveTotalWage.AssemblyInfoInputs.cache
+C:\Users\Sai\source\repos\Employee Wage\UC9_SaveTotalWage\obj\Debug\netcoreapp3.1\UC9_SaveTotalWage.AssemblyInfo.cs
+C:\Users\Sai\source\repos\Employee Wage\UC9_SaveTotalWage\obj\Debug\netcoreapp3.1\UC9_SaveTotalWage.csproj.CoreCompileInputs.cache
